@@ -1,0 +1,75 @@
+C:\Users\Legion 5\source\repos\Library\bin\Debug\Library.exe.config
+C:\Users\Legion 5\source\repos\Library\bin\Debug\Library.exe
+C:\Users\Legion 5\source\repos\Library\bin\Debug\Library.pdb
+C:\Users\Legion 5\source\repos\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Legion 5\source\repos\Library\obj\Debug\Library.signInPage.resources
+C:\Users\Legion 5\source\repos\Library\obj\Debug\Library.singUpPage.resources
+C:\Users\Legion 5\source\repos\Library\obj\Debug\Library.AddBookPage.resources
+C:\Users\Legion 5\source\repos\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Legion 5\source\repos\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Legion 5\source\repos\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\source\repos\Library\obj\Debug\Library.exe
+C:\Users\Legion 5\source\repos\Library\obj\Debug\Library.pdb
+C:\Users\Legion 5\source\repos\Library\obj\Debug\Library.AddReport.resources
+C:\Users\Legion 5\source\repos\Library\obj\Debug\Library.UpdateProfile.resources
+C:\Users\Legion 5\source\repos\Library\obj\Debug\Library.AddOffer.resources
+C:\Users\lenovo\Downloads\Library\bin\Debug\Library.exe.config
+C:\Users\lenovo\Downloads\Library\bin\Debug\Library.exe
+C:\Users\lenovo\Downloads\Library\bin\Debug\Library.pdb
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.AddOffer.resources
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.AddReport.resources
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.Admin.resources
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.Auther.resources
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.BookData.resources
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.Profile.resources
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.Reader.resources
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.signInPage.resources
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.singUpPage.resources
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.UpdateProfile.resources
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.AddBookPage.resources
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.exe
+C:\Users\lenovo\Downloads\Library\obj\Debug\Library.pdb
+C:\Users\Legion 5\Desktop\New folder\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Legion 5\Desktop\New folder\Library\Library\bin\Debug\Library.exe
+C:\Users\Legion 5\Desktop\New folder\Library\Library\bin\Debug\Library.pdb
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.AddOffer.resources
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.AddReport.resources
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.Admin.resources
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.Auther.resources
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.BookData.resources
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.Profile.resources
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.Reader.resources
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.signInPage.resources
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.singUpPage.resources
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.UpdateProfile.resources
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.AddBookPage.resources
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.exe
+C:\Users\Legion 5\Desktop\New folder\Library\Library\obj\Debug\Library.pdb
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\bin\Debug\Library.exe
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\bin\Debug\Library.pdb
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.AddOffer.resources
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.AddReport.resources
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.Admin.resources
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.Auther.resources
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.Profile.resources
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.Reader.resources
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.signInPage.resources
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.singUpPage.resources
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.UpdateProfile.resources
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.AddBookPage.resources
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.exe
+C:\Users\Legion 5\Desktop\20200514_123-Library\20200514_123-Library\Library\Library\obj\Debug\Library.pdb
